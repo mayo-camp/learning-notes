@@ -1,1 +1,1 @@
-# tech_memo
+# learning-notes
