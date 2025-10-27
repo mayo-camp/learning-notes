@@ -2,7 +2,7 @@
 
 ## 概要
 
-- `ROOT.war`は、Tomcatのルートコンテキスト（`/`）として動作するWebアプリケーションを定義する特別な[WARファイル](glossary/war.md)名
+- `ROOT.war`は、Tomcatの[ルートコンテキスト（`/`）](glossary/ルートコンテキスト.md)として動作するWebアプリケーションを定義する特別な[WARファイル](glossary/war.md)名
 - Tomcatの`webapps`ディレクトリに`ROOT.war`を配置すると、`/`パスに[デプロイ](glossary/デプロイ.md)され、ドメイン直下でアクセスできるようになる
 - Tomcatは起動時に`webapps`以下をスキャンし、`ROOT.war`があればそれを`/`に展開する
 
