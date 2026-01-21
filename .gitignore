@@ -1,0 +1,6 @@
+.remote
+node_modules
+
+qiita.config.json
+.git
+.github
