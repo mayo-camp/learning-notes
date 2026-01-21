@@ -5,14 +5,12 @@ tags:
   - C#
   - トランザクション
 private: false
-updated_at: '2026-01-22T03:26:10+09:00'
+updated_at: '2026-01-22T03:39:37+09:00'
 id: 99280259833287e7ba44
 organization_url_name: null
 slide: false
 ignorePublish: false
 ---
-
-# トランザクション
 
 開始（BEGIN）から確定（COMMIT）または取消（ROLLBACK）までを1単位とする処理のまとまりであり、途中でエラーが発生した場合は処理前の状態に戻ることが保証される
 
